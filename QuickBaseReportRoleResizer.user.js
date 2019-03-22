@@ -6,7 +6,7 @@
 // @author       You
 // @match        ://*.quickbase.com/db/*?a=viewbuild&qid*
 // @grant        none
-// @updateURL
+// @updateURL    ://github.com/mkarrlp/QuickBaseReportRoleViewResizer/raw/master/QuickBaseReportRoleResizer.user.js
 // ==/UserScript==
 
 (function() {
