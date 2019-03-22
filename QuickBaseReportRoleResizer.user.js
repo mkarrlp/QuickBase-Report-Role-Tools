@@ -2,7 +2,7 @@
 // @name         QuickBaseReportRoleResizer
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Resizes the Role list in reports to make it easier to navigate and find Roles
 // @author       You
 // @match        ://*.quickbase.com/db/*?a=viewbuild&qid*
 // @grant        none
