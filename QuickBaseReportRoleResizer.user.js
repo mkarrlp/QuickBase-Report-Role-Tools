@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         QuickBaseReportRoleResizer
+// @name         QuickBase Report Role Resizer
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Resizes the Role list in reports to make it easier to navigate and find Roles
