@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         QuickBase Report Role Resizer
-// @namespace    QuickBaseReportRoleResizer
+// @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Resizes the Role list in reports to make it easier to navigate and find Roles
-// @author       mkarrlp
+// @author       You
 // @match        ://*.quickbase.com/db/*?a=viewbuild&qid*
+// @match        ://*.quickbase.com/db/*?a=viewbuild&uid*&newReportType=*
 // @grant        none
 // @updateURL    ://github.com/mkarrlp/QuickBaseReportRoleViewResizer/raw/master/QuickBaseReportRoleResizer.user.js
 // ==/UserScript==
