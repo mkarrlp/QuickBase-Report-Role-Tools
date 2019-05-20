@@ -5,7 +5,7 @@
 // @description  Resizes the Role list in reports to make it easier to navigate and find Roles
 // @author       You
 // @match        ://*.quickbase.com/db/*?a=viewbuild&qid*
-// @match        ://*.quickbase.com/db/*?a=viewbuild&uid*&newReportType=*
+// @match        ://*.quickbase.com/db/*?a=ViewBuild&uid*
 // @grant        none
 // @updateURL    ://github.com/mkarrlp/QuickBaseReportRoleViewResizer/raw/master/QuickBaseReportRoleResizer.user.js
 // ==/UserScript==
