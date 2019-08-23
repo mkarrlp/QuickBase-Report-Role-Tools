@@ -1,4 +1,4 @@
-# QuickBaseReportRoleViewResizer
+# QuickBase-Report-Role-Tools
 
 Requires TamperMonkey to work!
 
